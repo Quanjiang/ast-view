@@ -1,0 +1,23 @@
+
+
+.CodeTree {
+    border-style: solid;
+    width: 80%;
+    height: 800px;
+}
+
+.labelIt {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.labelText {
+    margin-left: 5px;
+    font-size: small;
+}
+
+.ErrInfo {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: red;
+}
