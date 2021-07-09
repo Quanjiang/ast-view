@@ -25,6 +25,8 @@ Show AST View of current code file.
 
 ## Release Notes
 
+### 0.0.5
+- modify README, add `go-ast` install command
 ### 0.0.3
 - Add Logo
 
