@@ -20,6 +20,7 @@ Show AST View of current code file.
 ## Requirements
 
 -  Golang (go-ast command required)
+   -  `go get github.com/tamayika/go-ast` 
 -  python2+ (python3 best)
 
 ## Release Notes
